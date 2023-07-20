@@ -32,7 +32,7 @@ const work = () => {
             Class Scheduling App for Mobile Always stay on top of upcoming
             classes and schedule changes with Appointy’s class scheduler and
             management mobile app for Android & iOS. You and your staff can
-            manage scheduling, payments, class and staff rosters on the go!
+            manage scheduling, payments, class and staff rosters on the go
           </p>
         </div>
       </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const work = () => {
+const Work = () => {
   return (
     <>
       <div className="mt-60">
@@ -40,4 +40,4 @@ const work = () => {
   );
 };
 
-export default work;
+export default Work;
